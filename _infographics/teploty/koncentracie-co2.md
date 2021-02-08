@@ -31,6 +31,7 @@ dataset:    "koncentrácia-co2"
 * V roku 2016 boli v Antarktíde objavené ľadovcové oblasti s vekom ľadu približne 2 milióny rokov. Koncentrácia CO<sub>2</sub> v bublinkách takto starého ľadu sa pohybovala v rozmedzí 200–⁠280 ppm, viď [článok](https://www.nature.com/articles/s41586-019-1692-3) z časopisu _Nature_.
 * Mladšie dáta (0–⁠2 000 rokov pred súčasnosťou) sú zložením súčasných meraní na Mauna Loa, Hawai a meraní z ľadovcových vrtov na Južnom póle ([Scripps dáta](https://scrippsco2.ucsd.edu/data/atmospheric_co2/icecore_merged_products)).
 * Od roku 1958 sa meria priamo koncentrácia CO<sub>2</sub> vo vzduchu na Mauna Loa, Hawai, ako súčasť programu [Scripps CO<sub>2</sub>](https://scripps.ucsd.edu/programs/keelingcurve/).
+* Časovú hustotu údajov o koncentrácii CO<sub>2</sub> v atmosfére za posledných 800 000 rokov ukazuje [animovaná vizualizácia](https://www.esrl.noaa.gov/gmd/ccgg/trends/history.html) NOAA.
 
 </details>
 
